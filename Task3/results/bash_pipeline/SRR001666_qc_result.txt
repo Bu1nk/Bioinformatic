@@ -1,0 +1,10 @@
+Sample: SRR001666
+Reference: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/reference/ecoli_ref.fna
+R1: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/fastq/SRR001666_1.fastq.gz
+R2: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/fastq/SRR001666_2.fastq.gz
+Mapped percent: 100.00%
+Threshold: >90%
+Status: OK
+Flagstat file: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/results/bash_pipeline/SRR001666.flagstat.txt
+Variant calling: VCF written: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/results/bash_pipeline/SRR001666/SRR001666.vcf
+Finished: 2026-06-07T18:20:51+07:00

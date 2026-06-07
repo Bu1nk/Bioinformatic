@@ -1,0 +1,191 @@
+=== Mapping QC pipeline: SRR001666 ===
+Started: 2026-06-07T18:19:05+07:00
+[1/7] Indexing reference: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/reference/ecoli_ref.fna
+[bwa_index] Pack FASTA... 0.04 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 1.42 seconds elapse.
+[bwa_index] Update BWT... 0.02 sec
+[bwa_index] Pack forward-only FASTA... 0.02 sec
+[bwa_index] Construct SA from BWT and Occ... 0.78 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/reference/ecoli_ref.fna
+[main] Real time: 2.702 sec; CPU: 2.281 sec
+[2/7] FastQC
+application/gzip
+application/gzip
+Started analysis of SRR001666_1.fastq.gz
+Approx 5% complete for SRR001666_1.fastq.gz
+Approx 10% complete for SRR001666_1.fastq.gz
+Started analysis of SRR001666_2.fastq.gz
+Approx 15% complete for SRR001666_1.fastq.gz
+Approx 20% complete for SRR001666_1.fastq.gz
+Approx 25% complete for SRR001666_1.fastq.gz
+Approx 30% complete for SRR001666_1.fastq.gz
+Approx 35% complete for SRR001666_1.fastq.gz
+Approx 40% complete for SRR001666_1.fastq.gz
+Approx 45% complete for SRR001666_1.fastq.gz
+Approx 50% complete for SRR001666_1.fastq.gz
+Approx 55% complete for SRR001666_1.fastq.gz
+Approx 60% complete for SRR001666_1.fastq.gz
+Approx 65% complete for SRR001666_1.fastq.gz
+Approx 70% complete for SRR001666_1.fastq.gz
+Approx 75% complete for SRR001666_1.fastq.gz
+Approx 80% complete for SRR001666_1.fastq.gz
+Approx 85% complete for SRR001666_1.fastq.gz
+Approx 5% complete for SRR001666_2.fastq.gz
+Approx 90% complete for SRR001666_1.fastq.gz
+Approx 95% complete for SRR001666_1.fastq.gz
+Approx 100% complete for SRR001666_1.fastq.gz
+Analysis complete for SRR001666_1.fastq.gz
+Failed to process file SRR001666_2.fastq.gz
+uk.ac.babraham.FastQC.Sequence.SequenceFormatException: Not in GZIP format
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.readNext(FastQFile.java:222)
+	at uk.ac.babraham.FastQC.Sequence.FastQFile.next(FastQFile.java:129)
+	at uk.ac.babraham.FastQC.Analysis.AnalysisRunner.run(AnalysisRunner.java:77)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+=== Mapping QC pipeline: SRR001666 ===
+Started: 2026-06-07T18:19:51+07:00
+[1/7] Reference index exists, skipping bwa index
+[2/7] FastQC
+application/gzip
+Started analysis of SRR001666_1.fastq.gz
+application/gzip
+Approx 5% complete for SRR001666_1.fastq.gz
+Approx 10% complete for SRR001666_1.fastq.gz
+Started analysis of SRR001666_2.fastq.gz
+Approx 15% complete for SRR001666_1.fastq.gz
+Approx 5% complete for SRR001666_2.fastq.gz
+Approx 20% complete for SRR001666_1.fastq.gz
+Approx 10% complete for SRR001666_2.fastq.gz
+Approx 25% complete for SRR001666_1.fastq.gz
+Approx 15% complete for SRR001666_2.fastq.gz
+Approx 30% complete for SRR001666_1.fastq.gz
+Approx 20% complete for SRR001666_2.fastq.gz
+Approx 35% complete for SRR001666_1.fastq.gz
+Approx 25% complete for SRR001666_2.fastq.gz
+Approx 40% complete for SRR001666_1.fastq.gz
+Approx 30% complete for SRR001666_2.fastq.gz
+Approx 45% complete for SRR001666_1.fastq.gz
+Approx 35% complete for SRR001666_2.fastq.gz
+Approx 50% complete for SRR001666_1.fastq.gz
+Approx 40% complete for SRR001666_2.fastq.gz
+Approx 55% complete for SRR001666_1.fastq.gz
+Approx 45% complete for SRR001666_2.fastq.gz
+Approx 60% complete for SRR001666_1.fastq.gz
+Approx 50% complete for SRR001666_2.fastq.gz
+Approx 65% complete for SRR001666_1.fastq.gz
+Approx 55% complete for SRR001666_2.fastq.gz
+Approx 70% complete for SRR001666_1.fastq.gz
+Approx 60% complete for SRR001666_2.fastq.gz
+Approx 75% complete for SRR001666_1.fastq.gz
+Approx 65% complete for SRR001666_2.fastq.gz
+Approx 80% complete for SRR001666_1.fastq.gz
+Approx 70% complete for SRR001666_2.fastq.gz
+Approx 85% complete for SRR001666_1.fastq.gz
+Approx 90% complete for SRR001666_1.fastq.gz
+Approx 75% complete for SRR001666_2.fastq.gz
+Approx 95% complete for SRR001666_1.fastq.gz
+Approx 80% complete for SRR001666_2.fastq.gz
+Approx 85% complete for SRR001666_2.fastq.gz
+Approx 100% complete for SRR001666_1.fastq.gz
+Analysis complete for SRR001666_1.fastq.gz
+Approx 90% complete for SRR001666_2.fastq.gz
+Approx 95% complete for SRR001666_2.fastq.gz
+Approx 100% complete for SRR001666_2.fastq.gz
+Analysis complete for SRR001666_2.fastq.gz
+[3/7] bwa mem alignment
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 200000 sequences (15200000 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 96182, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (465, 499, 533)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (329, 669)
+[M::mem_pestat] mean and std.dev: (498.97, 49.85)
+[M::mem_pestat] low and high boundaries for proper pairs: (261, 737)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 200000 reads in 8.677 CPU sec, 2.052 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 4 /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/reference/ecoli_ref.fna /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/fastq/SRR001666_1.fastq.gz /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/fastq/SRR001666_2.fastq.gz
+[main] Real time: 7.655 sec; CPU: 9.424 sec
+[4/7] samtools view (SAM -> BAM)
+[E::hts_idx_push] Unsorted positions on sequence #1: 4174949 followed by 684191
+[E::sam_index] Read 'NC_000913.3_683765_684266_4:0:0_0:0:0_1' with ref_name='NC_000913.3', ref_length=4641652, flags=83, pos=684191 cannot be indexed
+samtools index: failed to create index for "/mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/results/bash_pipeline/SRR001666/SRR001666.bam"
+=== Mapping QC pipeline: SRR001666 ===
+Started: 2026-06-07T18:20:23+07:00
+[1/7] Reference index exists, skipping bwa index
+[2/7] FastQC
+application/gzip
+Started analysis of SRR001666_1.fastq.gz
+application/gzip
+Approx 5% complete for SRR001666_1.fastq.gz
+Approx 10% complete for SRR001666_1.fastq.gz
+Started analysis of SRR001666_2.fastq.gz
+Approx 15% complete for SRR001666_1.fastq.gz
+Approx 5% complete for SRR001666_2.fastq.gz
+Approx 20% complete for SRR001666_1.fastq.gz
+Approx 10% complete for SRR001666_2.fastq.gz
+Approx 25% complete for SRR001666_1.fastq.gz
+Approx 15% complete for SRR001666_2.fastq.gz
+Approx 30% complete for SRR001666_1.fastq.gz
+Approx 20% complete for SRR001666_2.fastq.gz
+Approx 35% complete for SRR001666_1.fastq.gz
+Approx 25% complete for SRR001666_2.fastq.gz
+Approx 40% complete for SRR001666_1.fastq.gz
+Approx 30% complete for SRR001666_2.fastq.gz
+Approx 45% complete for SRR001666_1.fastq.gz
+Approx 35% complete for SRR001666_2.fastq.gz
+Approx 50% complete for SRR001666_1.fastq.gz
+Approx 40% complete for SRR001666_2.fastq.gz
+Approx 55% complete for SRR001666_1.fastq.gz
+Approx 45% complete for SRR001666_2.fastq.gz
+Approx 60% complete for SRR001666_1.fastq.gz
+Approx 50% complete for SRR001666_2.fastq.gz
+Approx 65% complete for SRR001666_1.fastq.gz
+Approx 70% complete for SRR001666_1.fastq.gz
+Approx 55% complete for SRR001666_2.fastq.gz
+Approx 75% complete for SRR001666_1.fastq.gz
+Approx 60% complete for SRR001666_2.fastq.gz
+Approx 80% complete for SRR001666_1.fastq.gz
+Approx 65% complete for SRR001666_2.fastq.gz
+Approx 85% complete for SRR001666_1.fastq.gz
+Approx 70% complete for SRR001666_2.fastq.gz
+Approx 90% complete for SRR001666_1.fastq.gz
+Approx 75% complete for SRR001666_2.fastq.gz
+Approx 95% complete for SRR001666_1.fastq.gz
+Approx 80% complete for SRR001666_2.fastq.gz
+Approx 100% complete for SRR001666_1.fastq.gz
+Analysis complete for SRR001666_1.fastq.gz
+Approx 85% complete for SRR001666_2.fastq.gz
+Approx 90% complete for SRR001666_2.fastq.gz
+Approx 95% complete for SRR001666_2.fastq.gz
+Approx 100% complete for SRR001666_2.fastq.gz
+Analysis complete for SRR001666_2.fastq.gz
+[3/7] bwa mem alignment
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 200000 sequences (15200000 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 96182, 0, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (465, 499, 533)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (329, 669)
+[M::mem_pestat] mean and std.dev: (498.97, 49.85)
+[M::mem_pestat] low and high boundaries for proper pairs: (261, 737)
+[M::mem_pestat] skip orientation RF as there are not enough pairs
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_process_seqs] Processed 200000 reads in 8.114 CPU sec, 1.980 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem -t 4 /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/reference/ecoli_ref.fna /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/fastq/SRR001666_1.fastq.gz /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/fastq/SRR001666_2.fastq.gz
+[main] Real time: 7.753 sec; CPU: 8.907 sec
+[4/7] samtools view (SAM -> BAM)
+[5/7] samtools flagstat
+[6/7] Parsing mapped percentage
+Mapped reads: 100.00%
+Mapping quality: OK (>90%)
+[7/7] samtools sort + freebayes variant calling
+[bam_sort_core] merging from 0 files and 2 in-memory blocks...
+index file /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/data/reference/ecoli_ref.fna.fai not found, generating...
+=== Finished: OK ===
+Results: /mnt/d/NSU_FIT_3rd_course/Bioinformatic/Task3/results/bash_pipeline/SRR001666_qc_result.txt

@@ -1,0 +1,13 @@
+# Большие промежуточные файлы (опционально, не коммитить)
+data/sra_cache/
+cromwell-executions/
+*.bam
+*.bai
+*.sam
+*.vcf
+*.fai
+*.bwt
+*.sa
+*.amb
+*.ann
+*.pac

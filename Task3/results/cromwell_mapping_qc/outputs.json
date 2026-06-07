@@ -1,0 +1,8 @@
+{
+  "MappingQC.mapping_ok": true,
+  "MappingQC.qc_status": "OK",
+  "MappingQC.mapped_percent": 100.0,
+  "MappingQC.flagstat": "cromwell-executions/MappingQC/ff9e07b5-29a0-4759-bb31-23017c0c7e9e/call-Flagstat/execution/SRR001666.flagstat.txt",
+  "MappingQC.qc_summary": "Mapping quality OK: 100.00% mapped (threshold >90.0%)",
+  "MappingQC.vcf": "cromwell-executions/MappingQC/ff9e07b5-29a0-4759-bb31-23017c0c7e9e/call-FreeBayes/execution/SRR001666.vcf"
+}

@@ -1,0 +1,28 @@
+digraph MappingQC {
+  #rankdir=LR;
+  compound=true;
+
+  # Links
+  CALL_ParseFlagstat -> CONDITIONAL_0_EXPRESSION
+  CALL_IndexReference -> CALL_BwaMem
+  CALL_SamToBam -> CALL_SortBam
+  CALL_Flagstat -> CALL_ParseFlagstat
+  CALL_BwaMem -> CALL_SamToBam
+  CALL_SortBam -> CALL_FreeBayes
+  CALL_SamToBam -> CALL_Flagstat
+
+  # Nodes
+  CALL_Flagstat [label="call Flagstat"]
+  CALL_FastQC [label="call FastQC"]
+  subgraph cluster_0 {
+    style="filled,dashed";
+    fillcolor=white;
+    CALL_SortBam [label="call SortBam"]
+    CALL_FreeBayes [label="call FreeBayes"]
+    CONDITIONAL_0_EXPRESSION [shape="hexagon" label="if (ParseFlagstat.mapping_ok)" style="dashed" ]
+  }
+  CALL_IndexReference [label="call IndexReference"]
+  CALL_ParseFlagstat [label="call ParseFlagstat"]
+  CALL_BwaMem [label="call BwaMem"]
+  CALL_SamToBam [label="call SamToBam"]
+}
