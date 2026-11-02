@@ -1,0 +1,51 @@
+variant	rsid	clinvar_present	clinvar_accession	clinvar_uid	classification	review_status	conditions	title
+21:25592860:T>C	rs10576	no						
+21:25603910:C>T	rs7278168	no						
+21:25607440:C>T	rs61735760	no						
+21:32656885:A>G	rs114053718	yes	VCV000544554	544554	Uncertain significance	criteria provided, multiple submitters, no conflicts	Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20; Inborn genetic diseases; not provided	NM_203446.3(SYNJ1):c.2597T>C (p.Ile866Thr)
+21:32687042:T>C	rs2254562	yes	VCV000586758	586758	Benign	criteria provided, multiple submitters, no conflicts	Developmental and epileptic encephalopathy, 53; Early-onset Parkinson disease 20; not provided; not specified	NM_203446.3(SYNJ1):c.884A>G (p.Lys295Arg)
+21:33415005:A>G	rs9808753	yes	VCV001169473	1169473	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	Immunodeficiency 28; not provided; not specified	NM_005534.4(IFNGR2):c.191A>G (p.Gln64Arg)
+21:33427015:A>G	rs17878711	yes	VCV000445594	445594	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	Immunodeficiency 28; not provided	NM_005534.4(IFNGR2):c.544A>G (p.Lys182Glu)
+21:33432763:G>A	rs115458101	yes	VCV000749643	749643	Likely benign	criteria provided, single submitter	Immunodeficiency 28	NM_005534.4(IFNGR2):c.771G>A (p.Ser257=)
+21:37065660:T>G	rs73901831	yes	VCV000709520	709520	Benign	criteria provided, single submitter	not provided	NM_153682.3(PIGP):c.327A>C (p.Pro109=)
+21:37067340:T>C	rs73901833	yes	VCV000709521	709521	Benign	criteria provided, single submitter	not provided	NM_153682.3(PIGP):c.196A>G (p.Ile66Val)
+21:38818580:G>A	rs116698978	no						
+22:17181903:A>G	rs7289170	yes	VCV000402527	402527	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	Deficiency of adenosine deaminase 2; not provided; not specified	NM_001282225.2(ADA2):c.1359T>C (p.Tyr453=)
+22:19353405:G>A	rs34000365	yes	VCV000714835	714835	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_003325.4(HIRA):c.2799C>T (p.His933=)
+22:19378003:G>C	rs115877869	no						
+22:19972976:C>T	rs114971216	yes	VCV000709199	709199	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_001670.3(ARVCF):c.2499G>A (p.Lys833=)
+22:19979957:C>G	rs74544696	yes	VCV001180930	1180930	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_001670.3(ARVCF):c.1182G>C (p.Arg394=)
+22:19980044:G>A	rs61736862	yes	VCV000769145	769145	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_001670.3(ARVCF):c.1095C>T (p.Ala365=)
+22:19981552:A>G	rs2073747	no						
+22:19990695:G>A	rs116782322	yes	VCV000714837	714837	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_001670.3(ARVCF):c.100C>T (p.Arg34Trp)
+22:21962760:G>A	rs115446312	yes	VCV000786695	786695	Benign	criteria provided, single submitter	not provided	NM_001282112.2(TOP3B):c.1338C>T (p.Thr446=)
+22:21962782:A>G	rs114712273	no						
+22:21964166:C>T	rs9610728	yes	VCV003057045	3057045	Benign	no assertion criteria provided	TOP3B-related disorder	NM_001282112.2(TOP3B):c.1093G>A (p.Asp365Asn)
+22:23160934:G>A	rs5759611	no						
+22:23160983:A>G	rs5759612	no						
+22:24184189:C>G	rs115180746	no						
+22:24186073:A>G	rs8141797	yes	VCV001255298	1255298	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_019601.4(SUSD2):c.1397A>G (p.Asn466Ser)
+22:24186268:C>T	rs115684319	yes	VCV000769156	769156	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_019601.4(SUSD2):c.1495C>T (p.Arg499Cys)
+22:30461461:A>G	rs5749104	no						
+22:30470519:G>A	rs116155456	no						
+22:30555239:C>T	rs112976399	no						
+22:30555495:G>C	rs114565111	yes	VCV004261361	4261361	Uncertain significance	criteria provided, single submitter	not specified	NM_001318104.2(GAL3ST1):c.730C>G (p.Arg244Gly)
+22:31089937:C>T	rs113930388	yes	VCV000712286	712286	Benign	criteria provided, multiple submitters, no conflicts	not provided	NM_134269.3(SMTN):c.710C>T (p.Pro237Leu)
+22:31091807:G>A	rs114015937	no						
+22:31096797:C>T	rs116641021	no						
+22:31267856:C>G	rs2228619	no						
+22:31278313:T>C	rs79923828	no						
+22:33274442:G>A	rs114246562	yes	VCV000703381	703381	Likely benign	criteria provided, multiple submitters, no conflicts	Muscular dystrophy-dystroglycanopathy type B6; not provided	NM_133642.5(LARGE1):c.2256C>T (p.Ala752=)
+22:33304315:G>A	rs113253213	yes	VCV000095167	95167	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6; not provided; not specified	NM_133642.5(LARGE1):c.1644C>T (p.Asn548=)
+22:33316147:G>A	rs115686643	yes	VCV000902052	902052	Conflicting classifications of pathogenicity	criteria provided, conflicting classifications	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6	NM_133642.5(LARGE1):c.1389C>T (p.Tyr463=)
+22:33626300:G>A	rs86487	yes	VCV000095175	95175	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6; not provided; not specified	NM_133642.5(LARGE1):c.435C>T (p.Ala145=)
+22:33650610:C>G	rs63446460	yes	VCV000158805	158805	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A6; Muscular dystrophy-dystroglycanopathy type B6; not provided; not specified	NM_133642.5(LARGE1):c.165G>C (p.Thr55=)
+22:38699942:A>G	rs114180421	no						
+22:39225792:G>T	rs35978693	yes	VCV000777710	777710	Benign	criteria provided, multiple submitters, no conflicts	not provided; not specified	NM_002608.4(PDGFB):c.657C>A (p.Pro219=)
+22:39231625:G>C	rs55634318	yes	VCV001188397	1188397	Benign/Likely benign	criteria provided, multiple submitters, no conflicts	not provided; not specified	NM_002608.4(PDGFB):c.453C>G (p.Val151=)
+22:39374483:C>T	rs114689408	no						
+22:39744238:A>G	rs115302874	no						
+22:39862000:A>G	rs75296456	no						
+22:40019319:C>T	rs115365592	no						
+22:40019964:G>T	rs12330063	no						
+22:50178377:A>G	rs5771206	no						
