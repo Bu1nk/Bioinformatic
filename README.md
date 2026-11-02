@@ -1,8 +1,16 @@
 # Bioinformatic
-NSU 3rd course
+НГУ, биоинформатика
+
+## 3 курс
 Абрамкин Никита, группа 23217
 
-## Задания
-- **Task1** — фенотип (муковисцидоз), парное выравнивание CFTR/TGFB1
-- **Task2** — BLAST, множественное выравнивание ACTB
-- **Task3** — картирование ридов (BWA), QC, WDL/Cromwell — см. [Task3/task.md](Task3/task.md)
+### Задания
+- **Task1**: фенотип (муковисцидоз), парное выравнивание CFTR/TGFB1
+- **Task2**: BLAST, множественное выравнивание ACTB
+- **Task3**: картирование ридов (BWA), QC, WDL/Cromwell: см. [Task3/task.md](Task3/task.md)
+
+## 4 курс
+Абрамкин Никита, группа 23213
+
+### Задания
+- **Task4**: клиническая аннотация вариантов (VEP, ClinVar, gnomAD): см. [Task4/task.md](Task4/task.md)
